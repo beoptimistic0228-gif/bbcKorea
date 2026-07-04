@@ -16,3 +16,6 @@ desktop.ini
 
 # 원본 대용량 PDF (필요 시 별도 보관, 저장소엔 제외)
 *.pdf
+
+# Claude Code 로컬 개인 설정 (스킬은 커밋, 로컬 권한 설정은 제외)
+.claude/settings.local.json
